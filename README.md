@@ -13,5 +13,3 @@ ClassAction Binary installer archive is [here](https://aminet.net/package/util/w
 A small screenshot of ClassAction:
 
 <img width="797" height="402" alt="ca" src="https://github.com/user-attachments/assets/ecfae7a4-b01a-427d-9aae-6722c970e683" />
-
-This site was built using [GitHub Pages](https://pages.github.com/).
