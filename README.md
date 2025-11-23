@@ -1,5 +1,5 @@
 # AmigaOS-ClassAction
-The source code of ClassAction for Amiga I wrote between 1992 and 1995
+The source code of ClassAction for Amiga I wrote between 1992 and 1998
 
 **ClassAction_2.8 folder** is for the latest AmigaOS 1.3+ version
 
