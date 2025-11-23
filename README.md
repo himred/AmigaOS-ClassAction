@@ -2,6 +2,8 @@
 The source code of ClassAction for Amiga I wrote between 1992 and 1995
 
 ClassAction_2.83 folder is for the latest AmigaOS 1.3+ version
+
+
 ClassAction_3.X folder is for the AmigaOS 2.0+, MUI version
 
 Dice C compiler is required to compile.
