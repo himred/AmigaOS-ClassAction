@@ -1,0 +1,120 @@
+## rcsid $Date: 23/08/96 20:00:00 $ $Revision: 3.3 $
+## language français
+## name ClassAction.catalog
+;
+CA_FILE_NOT_FOUND
+Fichier non trouvé
+CA_COMMOD
+Reconnait et gére TOUT format de fichier.
+CA_CONFIG_CORRUPT
+Votre fichier Config\n\nEst endommagé
+CA_CONFIG_NOT_VALID
+Votre fichier Config\n\nn'est pas un fichier Config valide
+CA_GENERIC_NOT_VALID
+Le fichier Generic n'est pas valide
+CA_XFD_FAILED
+xfdmaster.library non trouvée !!\nLa fonction décompactage Automatique\nest donc désactivée.
+CA_DECRUNCHING
+Décompactage
+CA_UNKNOWN
+Inconnu
+CA_READING
+Lecture et Tri
+CA_SURE_ERROR
+Erreur de syntaxe dans une commande SURE
+CA_REQ_ERROR
+Erreur de syntaxe dans une commande REQ
+CA_COPYRIGHT
+\33c\33b%s\33n\n\n(c) 1994-1997 par Salim Gasmi\n\nVous pouvez me contacter a :\n\nGasmi Salim\n4b rue des petits champs\nF-67300 Schiltigheim\nFrance\n\nEmail: salim@gasmi.net\nEmail: salim@sdv.fr\nWeb: http://www.gasmi.net\nIrc: Dr_Unix (#amigafr,#amiga)\n\nEnregistré a : %s
+CA_QUIT
+Voulez vous\nvraiment quitter
+CA_SELECT_FILE
+Vous devez sélectionner un fichier
+CA_INFO
+Fichier   : %s\nClasse    : %s\nTaille    : %ld Octets
+CA_ALREADY_RUNNING
+ClassAction est deja lancé.
+CA_APP_ERROR
+Impossible de créer un App icon
+CA_NO_CONFIG
+Fichier Config\nNon trouvé.
+CA_SHAREWARE
+\33c\33bClassAction\33n est MailWare.\n\nSi vous l'utilisez, enregistrez vous !\n\nL'enregistrement est GRATUIT\nConnectez vous a http://www.gasmi.net pour vous enregistrer.\n\nLisez la doc pour plus d'informations.
+CA_YES_NO
+Oui|Non
+CA_QUIT_BUTT
+Fin
+CA_ABOUT_BUTT
+Vers.
+CA_CLASS_BUTT
+Classe
+CA_FILE_BUTT
+Fichier
+CA_PARENT_BUTT
+Parent
+CA_INFO_BUTT
+Info
+CA_NOT_CR
+Non Compacté
+CA_NOT_DATA
+Pas un fichier données
+CA_NOT_DECR
+Non Décompacté
+CA_INFORMATION
+Information
+CA_MEMORY
+Pas assez de memoire \n\npour charger le fichier
+CA_LOADING
+Chargement
+CA_SURE
+Etes vous sur ?
+CA_OKAY
+Ok
+CA_DIR 
+Répertoire
+CA_BLIST 
+Boutons pour acceder rapidement a un chemin
+CA_MLIST
+Selecteur de fichiers principal
+CA_TPATH
+Répertoire courant
+CA_VOLS 
+Liste des volumes et assigns
+CA_PARENT
+Va au repertoire pére
+CA_FNAME 
+Nom du fichier selectionné
+CA_CNAME
+Classe du fichier selectionné
+CA_ALIST
+Liste des actions disponibles\npour le fichier selectionné
+CA_PREFS
+Prefs
+CA_PREFSH 
+Lance ClassActionPrefs\n\nSi cela ne fonctionne pas\nVerifiez la valeur\ndu tooltype CAPREFS
+CA_ABOUTH
+Affiche les informations et la version de ClassAction
+CA_QUITH
+Quitte ClassAction
+CA_DEST
+Destination
+CA_COPY
+Copier
+CA_RENAME
+Renommer
+CA_MKDIR
+Cree Rep
+CA_CLONE
+Copier en
+CA_MOVE 
+Deplacer
+CA_DELETE
+Effacer
+CA_OPTIONS
+Options
+CA_DEL_OK 
+Ok pour effacer les entrée(s) selectionnée(s) ?
+CA_ACTIONS
+Actions
+CA_MANAGE
+Gestion

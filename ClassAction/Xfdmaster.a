@@ -1,0 +1,52 @@
+
+	; Routines assembleur de decrunching
+	; Utilisant la xfdmaster.library	
+	;
+	; (c) 1994  Salim Gasmi
+	;	
+	; Version 1.00
+
+
+	section xfdRoutines,code
+
+	XREF  _XfdBase
+	XDEF _xfdAllocBufferInfo
+	XDEF _xfdRecogBuffer
+	XDEF _xfdDecrunchBuffer
+	XDEF _xfdFreeBufferInfo
+
+
+_xfdAllocBufferInfo
+
+	move.l	a6,-(a7)	
+	move.l	_XfdBase,a6
+	jsr	-30(a6)
+	move.l	(a7)+,a6
+	rts
+
+_xfdRecogBuffer
+
+	move.l	4(a7),a0
+	move.l 	a6,-(a7)
+	move.l	_XfdBase,a6
+	jsr 	-54(a6)
+	move.l	(a7)+,a6
+	rts
+
+_xfdDecrunchBuffer
+
+	move.l	4(a7),a0
+	move.l 	a6,-(a7)
+	move.l	_XfdBase,a6
+	jsr 	-60(a6)
+	move.l	(a7)+,a6
+	rts
+
+_xfdFreeBufferInfo
+
+	move.l	4(a7),a0
+	move.l 	a6,-(a7)
+	move.l	_XfdBase,a6
+	jsr 	-36(a6)
+	move.l	(a7)+,a6
+	rts
