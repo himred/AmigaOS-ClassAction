@@ -1,0 +1,148 @@
+CAP_CONFIG_CORRUPT (//)
+Your Config File\n\nIs Corrupted
+CAP_CONFIG_NOT_VALID (//)
+Your Config File\n\nis not a valid\n\nClassAction Config File
+CAP_GENERIC (//)
+Generic Actions
+CAP_GENERIC_NOT_VALID (//)
+The Generic File is not valid.
+CAP_DIR_NOT_VALID (//)
+The Dir file is not valid.
+CAP_ADD (//)
+Add
+CAP_DEL (//)
+Del
+CAP_SAVE (//)
+Save
+CAP_USE (//)
+Use
+CAP_CLASSES (//)
+Classes
+CAP_ACTIONS (//)
+Actions
+CAP_CLASSNAME (//)
+ClassName
+CAP_MATCH_NAME (//)
+MatchName
+CAP_NAME (//)
+Name
+CAP_EXEC (//)
+Exec
+CAP_LOAD (//)
+Load
+CAP_STACK (//)
+Stack
+CAP_COMM (//)
+Comm
+CAP_COPY (//)
+Copy
+CAP_UP (//)
+U
+CAP_DOWN (//)
+D
+CAP_CANCEL (//)
+Cancel
+CAP_DELAY (//)
+Delay
+CAP_SELECT (//)
+Select the source Class
+CAP_NEW_CLASS (//)
+<New Class #%d>
+CAP_NEW_ACTION (//)
+<New Action #%d>
+CAP_CANT_DELETE (//)
+You Can't Delete this Class
+CAP_DEL_CLASS (//)
+Delete this Class ?
+CAP_DEL_ACTION (//)
+Delete this action ?
+CAP_UNABLE (//)
+Unable to Proceed !\nSource and Destination\nClasses are equal
+CAP_F_COMM (//)
+[f]    ''Path+File Name''
+CAP_S_COMM (//)
+[s]    ''Path+File Name without suffix''
+CAP_B_COMM (//)
+[b]    ''File Name''
+CAP_X_COMM (//)
+[x]    ''File Name without suffix'' 
+CAP_BF_COMM (//)
+[F]    Path+File Name
+CAP_BS_COMM (//)
+[S]    Path+File Name without suffix
+CAP_BB_COMM (//)
+[B]    File Name
+CAP_BX_COMM (//)
+[X]    File Name without suffix
+CAP_REQF_COMM (//)
+REQF   Request a file
+CAP_REQD_COMM (//)
+REQD   Request a directory
+CAP_REQV_COMM (//)
+REQV   Request a volume
+CAP_REQT_COMM (//)
+REQT   Request a text
+CAP_SURE_COMM (//)
+SURE   Confirm a command
+CAP_COMMANDS (//)
+Commands
+CAP_ARE_U_SURE (//)
+Are you sure ?
+CAP_YES_NO (//)
+Yes|No
+CAP_INFO (//)
+Information
+CAP_OK (//)
+Okay
+CAP_UNKNOWN (//)
+Unknown Class
+CAP_NOACT (//)
+No Action
+CAP_L_NEED (//)
+I need at least 2 files for learning.
+CAP_L_CHOOSE (//)
+Choose files to learn.
+CAP_L_MEMORY (//)
+Not Enough Memory for learning.
+CAP_L_NOTHING (//)
+Nothing found.
+CAP_L_PROG (//)
+Analysis in progress ...
+CAP_L_PREP (//)
+Preprocessing... please wait
+CAP_L_LEARN (//)
+Learn
+CAP_L_STATUS (//)
+Status
+CAP_L_ACCEPT (//)
+Accept
+CAP_L_DO_U (//)
+Accept this analysis ?
+CAP_L_COMP (//)
+Analysis complete.
+CAP_L_ACCU (//)
+Learning accuracy (%%)
+CAP_DIRECTORY (//)
+Directory
+CAP_H_DELC (//)
+Delete the selected class.
+CAP_H_DELA (//)
+Delete the selected action.
+CAP_H_ADDC (//)
+Add a new class.
+CAP_H_ADDA (//)
+Add a new action.
+CAP_H_LEARN (//)
+Automatic learn of a new class.
+CAP_H_FILE (//)
+Select a file.
+CAP_H_COMM (//)
+List of all internal commands
+CAP_H_SAVE (//)
+Save the configuration and quit.
+CAP_H_USE (//)
+Use the configuration and quit.
+CAP_H_QUIT (//)
+Quit without any modifications
+CAP_SHAREWARE (//)
+\33c\33bClassAction\33n is MailWare.\n\nIf you USE it please Register.\n\nThe Registration is FREE: Just connect to http://www.gasmi.net.\n\nRead the doc for more info.

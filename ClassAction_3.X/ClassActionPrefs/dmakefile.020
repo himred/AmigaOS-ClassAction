@@ -1,0 +1,35 @@
+OBJ=mui.o list.o global.o disk.o req.o arexx.o locale.o init.o learn.o
+H=includes.h newtypes.h extern.h 
+OPT=-3.1 -020
+EXE=ClassActionPrefs
+
+ClassActionPrefs: $(OBJ)
+    dcc $(OPT) $(OBJ) -o $(EXE) -lgt.lib -lreqtoolss.lib -lmui
+
+mui.o: mui.c $(H)
+    dcc $(OPT) -c mui.c 
+
+list.o: list.c $(H)
+    dcc $(OPT) -c list.c 
+
+global.o: global.c $(H)
+    dcc $(OPT) -c global.c 
+
+disk.o: disk.c $(H)
+    dcc $(OPT) -c disk.c 
+
+req.o: req.c $(H)
+    dcc $(OPT) -c req.c 
+
+arexx.o: arexx.c
+	dcc $(OPT) -c arexx.c
+
+locale.o: locale.c
+	dcc $(OPT) -c locale.c
+
+init.o: init.c
+	dcc $(OPT) -c init.c
+
+learn.o: learn.c
+	dcc $(OPT) -c learn.c
+

@@ -1,0 +1,140 @@
+## version $VER: ClassAction.catalog 2.8 (05.10.95)
+## codeset 0
+## language italiano
+;
+CA_FILE_NOT_FOUND
+File non trovato
+; File Not Found
+;
+CA_COMMOD
+Riconosce e tratta OGNI formato di file.
+; Recognize and handle ANY file format.
+;
+CA_CONFIG_CORRUPT
+Il tuo File di\n\n Configurazione\n\n è Corrotto
+; Your Config File\n\nIs Corrupted
+;
+CA_CONFIG_NOT_VALID
+Il tuo File di\n\n COnfigurazione non è\n\n un File di Configurazione\n\ndi ClassAction
+; Your Config File\n\nis not a valid\n\nClassAction Config File
+;
+CA_GENERIC_NOT_VALID
+Il File Generico non è valido.
+; The Generic File is not valid.
+;
+CA_XFD_FAILED
+xfdmaster.library non trovata !!\n la Funzione di Decrunch Automatico\n è ora Disattivata.
+; xfdmaster.library not found !!\nThe Auto Decrunching Function\nis now Deactivated.
+;
+CA_DECRUNCHING
+Decrunch
+; Decrunching
+;
+CA_UNKNOWN
+Sconosciuto
+; Unknown
+;
+CA_READING
+Lettura & Ordinamento
+; Reading & Sorting
+;
+CA_SURE_ERROR
+Errore di Sintassi nel comando SURE
+; Syntax Error in SURE command
+;
+CA_REQ_ERROR
+Errore di Sintassi nel comando REQ
+; Syntax Error in REQ command
+;
+CA_COPYRIGHT
+%s \n\n(c) 1994-1995 di Salim Gasmi\n\nTu puoi contattarmi presso :\n\nGasmi Salim\n6,rue des hirondelles\nF-67380 Lingolsheim\nFrance\n\nEMail : salim@panoramix.sdv.fr\n        salim@zeus.pandemonium.fr\n\nRegistrato per : %s
+; %s \n\n(c) 1994-1995 by Salim Gasmi\n\nYou can contact me at :\n\nGasmi Salim\n6,rue des hirondelles\nF-67380 Lingolsheim\nFrance\n\nEmail : salim@panoramix.sdv.fr\n        salim@zeus.pandemonium.fr\n\nRegistered to : %s
+;
+CA_QUIT
+Fine veramente
+; Really Quit
+;
+CA_SELECT_FILE
+Devi prima selezionare un file
+; You must select a file first
+;
+CA_INFO
+File      : %s\nClasse    : %s\nDim.      : %ld Bytes
+; File      : %s\nClass     : %s\nSize      : %ld Bytes
+;
+CA_ALREADY_RUNNING
+ClassAction è già in esecuzione!
+; ClassAction is already running.
+;
+CA_APP_ERROR
+Non posso creare un'Icona App
+; Unable to create an App icon
+;
+CA_NO_CONFIG
+File di Config\n non trovato.
+; Config file\nNot Found.
+;
+CA_SHAREWARE
+ClassAction è Shareware.\n\nSe lo USI, per favore registrati.\n\nIl canone di Rgistrazione è di : 10$ o 20DM o 50FF.\n\nIl mio indirizzo può essere trovato usando 'About' dal menu.
+; ClassAction is ShareWare.\n\nIf you USE it please Register.\n\nThe Registration fee is : $ 10 or 20 DM or 50 FF.\n\nMy address can be found with the 'About' button.
+;
+CA_YES_NO
+Si|No
+; Yes|No
+;
+CA_QUIT_BUTT
+Fine
+; Quit
+;
+CA_ABOUT_BUTT
+About
+; About
+;
+CA_CLASS_BUTT
+Classe
+; Class
+;
+CA_FILE_BUTT
+File
+; File
+;
+CA_PARENT_BUTT
+Genitore
+; Parent
+;
+CA_INFO_BUTT
+Info
+; Info
+;
+CA_NOT_CR
+Non Crunchato
+; Not Crunched
+;
+CA_NOT_DATA
+Non è un File Dati
+; Not a Data File
+;
+CA_NOT_DECR
+Non Decrunchato
+; Not Decrunched
+;
+CA_INFORMATION
+Informazioni
+; Information
+;
+CA_MEMORY
+Non c'è abbastanza memoria \n\n per caricare il file
+; Not Enough Memory \n\nto load the file
+;
+CA_LOADING
+Caricamento
+; Loading
+;
+CA_SURE
+Sei sicuro ?
+; Are you Sure ?
+;
+CA_OKAY
+OK
+; Okay
+;

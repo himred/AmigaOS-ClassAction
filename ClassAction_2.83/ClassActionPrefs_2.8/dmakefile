@@ -1,0 +1,39 @@
+OBJ=main.o list.o idcmp.o global.o disk.o req.o pop.o arexx.o locale.o learn.o
+H=includes.h newtypes.h extern.h 
+OPT=-3.0
+EXE=ClassActionPrefs
+
+ClassActionPrefs: $(OBJ)
+    dcc $(OPT) $(OBJ) -o $(EXE) -lgt.lib -lreqtoolss.lib
+
+main.o: main.c main.h $(H)
+    dcc $(OPT) -c main.c 
+
+list.o: list.c $(H)
+    dcc $(OPT) -c list.c 
+
+
+idcmp.o: idcmp.c $(H)
+    dcc $(OPT) -c idcmp.c 
+
+global.o: global.c $(H)
+    dcc $(OPT) -c global.c 
+
+disk.o: disk.c $(H)
+    dcc $(OPT) -c disk.c 
+
+req.o: req.c $(H)
+    dcc $(OPT) -c req.c 
+
+pop.o: pop.c $(H)
+    dcc $(OPT) -c pop.c 
+
+arexx.o: arexx.c
+	dcc $(OPT) -c arexx.c
+
+locale.o: locale.c
+	dcc $(OPT) -c locale.c
+
+learn.o: learn.c
+	dcc $(OPT) -c learn.c
+

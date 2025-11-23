@@ -1,0 +1,72 @@
+## rcsid $Date: 17/07/95 20:00:00 $ $Revision: 2.5 $
+## language français
+## name ClassAction.catalog
+;
+CA_FILE_NOT_FOUND
+Fichier non trouvé
+CA_COMMOD
+Reconnait et gére TOUT format de fichier.
+CA_CONFIG_CORRUPT
+Votre fichier Config\n\nEst endommagé
+CA_CONFIG_NOT_VALID
+Votre fichier Config\n\nn'est pas un fichier Config valide
+CA_GENERIC_NOT_VALID
+Le fichier Generic n'est pas valide
+CA_XFD_FAILED
+xfdmaster.library non trouvée !!\nLa fonction décompactage Automatique\nest donc désactivée.
+CA_DECRUNCHING
+Décompactage
+CA_UNKNOWN
+Inconnu
+CA_READING
+Lecture et Tri
+CA_SURE_ERROR
+Erreur de syntaxe dans une commande SURE
+CA_REQ_ERROR
+Erreur de syntaxe dans une commande REQ
+CA_COPYRIGHT
+%s \n\n(c) 1994-1996 par Salim Gasmi\n\nVous pouvez me contacter a :\n\nGasmi Salim\n4b rue des petits champs\nF-67300 Shiltigheim\nFrance\n\nEmail: salim@gasmi.net\nEmail: salim@sdv.fr\nWeb: http://www.gasmi.net\nIrc: Dr_Unix (#amigafr,#amiga)\n\nEnregistré a : %s
+CA_QUIT
+Voulez vous\nvraiment quitter
+CA_SELECT_FILE
+Vous devez sélectionner un fichier
+CA_INFO
+Fichier   : %s\nClasse    : %s\nTaille    : %ld Octets
+CA_ALREADY_RUNNING
+ClassAction est deja lancé.
+CA_APP_ERROR
+Impossible de créer un App icon
+CA_NO_CONFIG
+Fichier Config\nNon trouvé.
+CA_SHAREWARE
+ClassAction est ShareWare.\n\nSi vous l'utilisez, enregistrez vous !\n\nLe cout est de : $ 10 ou 20 DM ou 50 FF.\n\nMon adresse est trouvable avec le boutton 'Vers'.
+CA_YES_NO
+Oui|Non
+CA_QUIT_BUTT
+Fin
+CA_ABOUT_BUTT
+Vers.
+CA_CLASS_BUTT
+Classe
+CA_FILE_BUTT
+Fichier
+CA_PARENT_BUTT
+Parent
+CA_INFO_BUTT
+Info
+CA_NOT_CR
+Non Compacté
+CA_NOT_DATA
+Pas un fichier données
+CA_NOT_DECR
+Non Décompacté
+CA_INFORMATION
+Information
+CA_MEMORY
+Pas assez de memoire \n\npour charger le fichier
+CA_LOADING
+Chargement
+CA_SURE
+Etes vous sur ?
+CA_OKAY
+Ok

@@ -1,0 +1,68 @@
+CA_FILE_NOT_FOUND
+Datei nicht gefunden.
+CA_COMMOD
+Erkennt alle Datei formate.
+CA_CONFIG_CORRUPT
+Eure Datei Config\n\nEst ist beschädigt
+CA_CONFIG_NOT_VALID
+Eure Datei Config\n\nist nicht benutzbach.
+CA_GENERIC_NOT_VALID
+Eure Generic Datei ist nicht benutzbach.
+CA_XFD_FAILED
+xfdmaster.library nicht gefunden !!\nDie automatische Entpackung \nist nicht möglich.
+CA_DECRUNCHING
+Entpackung
+CA_UNKNOWN
+Unbekannt
+CA_READING
+Ladung und Sortieren
+CA_SURE_ERROR
+Syntax Fehler in der SURE Steuerung.
+CA_REQ_ERROR
+Syntax Fehler in der REQ Steuerung.
+CA_COPYRIGHT
+%s \n\n(c) 1994-1995  durch Salim Gasmi\n\nmeine Adresse ist:\n\nGasmi Salim\n6,rue des hirondelles\nF-67380 Lingolsheim\nFrance\n\nEmail : gasmisam@knossos.her.tei.gr\n\nEintragung bei : %s
+CA_QUIT
+Wollen Sie\nverlassen.
+CA_SELECT_FILE
+Sie sollen ein Datei auswahlen.
+CA_INFO
+Datei     : %s\nKlasse    : %s\nGrösse    : %ld
+CA_ALREADY_RUNNING
+ClassAction ist schon gelanden.
+CA_APP_ERROR
+Unmöglich den App icon zu grunden.
+CA_NO_CONFIG
+Config\nDatei nicht gefunden.
+CA_SHAREWARE
+ClassAction ist ShareWare.\n\nWenn Sie ihn benutzen eintragen Sie sich!\n\nDer Preis ist : $ 10 oder 20 DM oder 50 FF.\n\nSie finden meine Adresse mit 'Vers'.
+CA_YES_NO
+Ya|Nein
+CA_QUIT_BUTT
+Ende
+CA_ABOUT_BUTT
+Vers.
+CA_CLASS_BUTT
+Klasse
+CA_FILE_BUTT
+Datei
+CA_PARENT_BUTT
+Parent
+CA_INFO_BUTT
+Info
+CA_NOT_CR
+Nicht gepackt.
+CA_NOT_DATA
+==============
+CA_NOT_DECR
+Nicht entpackt.
+CA_INFORMATION
+Information
+CA_MEMORY
+Zu wenig Speicher \n\num den Datei zu laden.
+CA_LOADING
+Ladung
+CA_SURE
+Sind Sie sicher ?
+CA_OKAY
+Ok

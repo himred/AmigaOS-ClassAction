@@ -1,0 +1,84 @@
+CAP_CONFIG_CORRUPT
+Eure Config\n\nDatei ist unbenutzbach.
+CAP_CONFIG_NOT_VALID
+Eure Config\n\nDatei ist unbenutzbach.
+CAP_GENERIC
+Generic Action
+CAP_GENERIC_NOT_VALID
+Eure generic\n\nDatei ist unbenutzbach.
+CAP_ADD
+Zufüg
+CAP_DEL
+Weg
+CAP_SAVE
+Speichern
+CAP_USE
+Benutzen
+CAP_CLASSES
+Klasse
+CAP_ACTIONS
+Actionen
+CAP_CLASSNAME
+Klasse
+CAP_MATCH_NAME
+Filter
+CAP_NAME
+Name
+CAP_EXEC
+Exec
+CAP_LOAD
+Laden
+CAP_STACK
+Stack
+CAP_COMM
+Comm.
+CAP_COPY
+Kopie
+CAP_UP
+O
+CAP_DOWN
+U
+CAP_CANCEL
+Abbrechen
+CAP_DELAY
+Zeit
+CAP_SELECT
+Wählen Sie die Quelle Klasse.
+CAP_NEW_CLASS
+<Neue Klasse #%d>
+CAP_NEW_ACTION
+<Neue Action #%d>
+CAP_CANT_DELETE
+Sie können diese Klasse nicht entziehen.
+CAP_DEL_CLASS
+Diese Klasse entziehen ?
+CAP_DEL_ACTION
+Diese Action entziehen ?
+CAP_COPYRIGHT
+%s \n\n(c) 1994-1995 par Salim Gasmi\n\nMeine Adresse ist :\n\nGasmi Salim\n6,rue des hirondelles\nF-67380 Lingolsheim\nFrance\n\nEmail : gasmisam@knossos.her.tei.gr
+CAP_UNABLE
+Kopieren unmöglich !\ndie Quelle und die Bestimmung\nsind die selben.
+CAP_F_COMM
+[f]  Datei Name
+CAP_S_COMM
+[s]  Datei Name ohne suffix
+CAP_REQF_COMM
+REQF Die Bitte eines Datei
+CAP_REQD_COMM
+REQD Die Bitte ein Dir
+CAP_SURE_COMM
+SURE Steuerung bestätigen
+CAP_COMMANDS
+Steuerung
+CAP_ARE_U_SURE
+Sind sie sicher ?
+CAP_YES_NO
+Ya|Nein
+CAP_INFO
+Information
+CAP_OK
+Ok
+CAP_UNKNOWN
+Unbekannte Klasse
+CAP_NOACT
+Keine Action

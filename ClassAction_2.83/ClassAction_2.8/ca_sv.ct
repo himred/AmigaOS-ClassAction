@@ -1,0 +1,139 @@
+## rcsid $Date: 17/09/95 20:00:00 $ $Revision: 2.5 $
+## language svenska
+## name ClassAction.catalog
+;
+CA_FILE_NOT_FOUND
+Kan ej hitta filen
+;
+CA_COMMOD
+Känner igen och hanterar ALLA filformat
+;
+CA_CONFIG_CORRUPT
+Din Konfigfil\n\
+\n\
+är trasig
+;
+CA_CONFIG_NOT_VALID
+Din Konfigfil\n\
+\n\
+är inte en giltig\n\
+\n\
+ClassAction Konfigfil
+;
+CA_GENERIC_NOT_VALID
+Den generella filen är ej giltig.
+;
+CA_XFD_FAILED
+Kan ej hitta xfdmaster.library !!\n\
+Auto-Uppackning funktionen\n\
+är ej aktiv.
+;
+CA_DECRUNCHING
+Dekomprimerar
+;
+CA_UNKNOWN
+Okänd
+;
+CA_READING
+Läser & Sorterar
+;
+CA_SURE_ERROR
+Fel i SURE-kommando
+;
+CA_REQ_ERROR
+Fel i REQ-kommando
+;
+CA_COPYRIGHT
+%s \n\
+\n\
+(c) 1994-1995 av Salim Gasmi\n\
+\n\
+Du kan kontakta mig via :\n\
+\n\
+Gasmi Salim\n\
+6,rue des hirondelles\n\
+F-67380 Lingolsheim\n\
+France\n\
+\n\
+Email : salim@panoramix.sdv.fr\n\
+        salim@zeus.pandemonium.fr\n\
+\n\
+Registrerad på : %s
+;
+CA_QUIT
+Verkligen avsluta
+;
+CA_SELECT_FILE
+Du måste välja en fil först
+;
+CA_INFO
+Fil       : %s\n\
+Klass     : %s\n\
+Storlek   : %ld Byte
+;
+CA_ALREADY_RUNNING
+ClassAction har redan startats.
+;
+CA_APP_ERROR
+Kan ej skapa App-Ikon
+;
+CA_NO_CONFIG
+Kan ej hitta\n\
+Konfigfilen.
+;
+CA_SHAREWARE
+ClassAction är ShareWare.\n\
+\n\
+Om du ANVÄNDER det, registrera dig.\n\
+\n\
+Registreringsavgiften är : $ 10 eller 20 DM eller 50 FF.\n\
+\n\
+Min adress finns under 'Om' knappen.
+;
+CA_YES_NO
+Ja|Nej
+;
+CA_QUIT_BUTT
+Avsluta
+;
+CA_ABOUT_BUTT
+Om
+;
+CA_CLASS_BUTT
+Klass
+;
+CA_FILE_BUTT
+Fil
+;
+CA_PARENT_BUTT
+Moder
+;
+CA_INFO_BUTT
+Info
+;
+CA_NOT_CR
+Ej komprimerad
+;
+CA_NOT_DATA
+Ej en datafil
+;
+CA_NOT_DECR
+Ej dekomprimerad
+;
+CA_INFORMATION
+Information
+;
+CA_MEMORY
+Ej tillräckligt med minne \n\
+\n\
+för att ladda filen
+;
+CA_LOADING
+Laddar
+;
+CA_SURE
+Är du säker ?
+;
+CA_OKAY
+Ok
+;

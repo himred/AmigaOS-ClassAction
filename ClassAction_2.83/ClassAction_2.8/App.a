@@ -1,0 +1,44 @@
+	
+	;
+	; ClassAction Source
+	;
+	; Asm Call of AddAppIconA (-$3c Workbench.library)
+	; 
+	; Needed coz of a BUG of Dice.
+	;
+	; (c) 1995 Gasmi Salim.
+	;
+	; Version 2.01
+	;
+
+	section AppIconCode,code
+
+
+	XREF  _WBBASE		; WbLib Base
+	XREF  _XPORT		; struct MsgPort *
+	XREF  _XOBJ			; struct DiskObject *
+	XREF  _XTEXT		; char *
+
+	XDEF _MyAddAppIcon	; Function Name
+
+
+_MyAddAppIcon
+
+	movem.l	D2-D7/A2-A6,-(sp)
+	
+	move.l	#0,d0
+	move.l	#0,d1
+	move.l	_XTEXT,a0
+	move.l	_XPORT,a1
+	move.l	#0,a2
+	move.l	_XOBJ,a3
+	move.l  #0,a4
+
+	move.l	_WBBASE,a6
+	jsr 	-$3c(a6)
+
+	movem.l	(sp)+,D2-D7/A2-A6
+
+	rts
+
+

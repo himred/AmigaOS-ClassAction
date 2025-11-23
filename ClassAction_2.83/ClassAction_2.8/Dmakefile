@@ -1,0 +1,65 @@
+OBJ=main.o list.o idcmp.o global.o disk.o req.o exec.o wbrun.o win.o \
+xfdmaster.o xfd.o appicon.o app.o handleapp.o pop.o arexx.o commod.o \
+locale.o 
+H=includes.h newtypes.h extern.h 
+OPT= -3.0
+EXE=ClassAction
+
+ClassAction: $(OBJ)
+    dcc $(OPT) $(OBJ) -ldt.lib -lreqtoolss.lib -o $(EXE)
+
+main.o: main.c main.h $(H)
+    dcc $(OPT) -c main.c
+
+list.o: list.c $(H)
+    dcc $(OPT) -c list.c
+
+idcmp.o: idcmp.c $(H)
+    dcc $(OPT) -c idcmp.c
+
+global.o: global.c $(H)
+    dcc $(OPT) -c global.c 
+
+disk.o: disk.c $(H)
+    dcc $(OPT) -c disk.c
+
+req.o: req.c $(H)
+    dcc $(OPT) -c req.c 
+
+exec.o: exec.c $(H)
+    dcc $(OPT) -c exec.c 
+
+win.o: win.c $(H)
+    dcc $(OPT) -c win.c
+
+xfd.o: xfd.c $(H)
+    dcc $(OPT) -c xfd.c
+
+xfdmaster.o: xfdmaster.a
+	das xfdmaster.a
+
+wbrun.o: wbrun.c
+    dcc -mD $(OPT) -c wbrun.c
+
+app.o: app.a
+	das app.a
+
+appicon.o: appicon.c
+	dcc $(OPT) -c appicon.c
+
+
+handleapp.o: handleapp.c
+	dcc $(OPT) -c handleapp.c
+
+pop.o: pop.c
+	dcc $(OPT) -c pop.c
+
+arexx.o: arexx.c
+	dcc $(OPT) -c arexx.c
+
+commod.o: commod.c
+	dcc $(OPT) -c commod.c
+
+locale.o: locale.c
+	dcc $(OPT) -c locale.c
+

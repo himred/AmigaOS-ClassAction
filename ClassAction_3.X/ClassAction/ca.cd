@@ -1,0 +1,116 @@
+CA_FILE_NOT_FOUND (//)
+File Not Found
+CA_COMMOD (//)
+Recognize and handle ANY file format.
+CA_CONFIG_CORRUPT (//)
+Your Config File\n\nIs Corrupted
+CA_CONFIG_NOT_VALID (//)
+Your Config File\n\nis not a valid\n\nClassAction Config File
+CA_GENERIC_NOT_VALID (//)
+The Generic File is not valid.
+CA_XFD_FAILED (//)
+xfdmaster.library not found !!\nThe Auto Decrunching Function\nis now Deactivated.
+CA_DECRUNCHING (//)
+Decrunching
+CA_UNKNOWN (//)
+Unknown
+CA_READING (//)
+Reading & Sorting
+CA_SURE_ERROR (//)
+Syntax Error in SURE command
+CA_REQ_ERROR (//)
+Syntax Error in REQ command
+CA_COPYRIGHT (//)
+\33c\33b%s\33n\n\n(c) 1994-1997 by Salim Gasmi\n\nYou can contact me at :\n\nGasmi Salim\n4b rue des petits champs\nF-67300 Schiltigheim\nFrance\n\nEmail: salim@gasmi.net\nEmail: salim@sdv.fr   \nWeb: http://www.gasmi.net\nIrc: Dr_Unix (#amigafr,#amiga)\n\nRegistered to : %s  
+CA_QUIT (//)
+Really Quit
+CA_SELECT_FILE (//)
+You must select a file first
+CA_INFO (//)
+File      : %s\nClass     : %s\nSize      : %ld Bytes
+CA_ALREADY_RUNNING (//)
+ClassAction is already running.
+CA_APP_ERROR (//)
+Unable to create an App icon
+CA_NO_CONFIG (//)
+Config file\nNot Found.
+CA_SHAREWARE (//)
+\33c\33bClassAction\33n is MailWare.\n\nIf you USE it please Register.\n\nThe Registration is FREE: Just connect to http://www.gasmi.net.\n\nRead the doc for more info.
+CA_YES_NO (//)
+Yes|No
+CA_QUIT_BUTT (//)
+Quit
+CA_ABOUT_BUTT (//)
+About
+CA_CLASS_BUTT (//)
+Class
+CA_FILE_BUTT (//)
+File 
+CA_PARENT_BUTT (//)
+Parent
+CA_INFO_BUTT (//)
+Info
+CA_NOT_CR (//)
+Not Crunched
+CA_NOT_DATA (//)
+Not a Data File
+CA_NOT_DECR (//)
+Not Decrunched
+CA_INFORMATION (//)
+Information
+CA_MEMORY (//)
+Not Enough Memory \n\nto load the file
+CA_LOADING (//)
+Loading
+CA_SURE (//)
+Are you Sure ?
+CA_OKAY (//)
+Okay
+CA_DIR (//)
+Directory
+CA_BLIST (//)
+Path buttons
+CA_MLIST (//)
+Main Directory List
+CA_TPATH (//)
+Current working directory
+CA_VOLS (//)
+List of volumes and assigns
+CA_PARENT (//)
+Go to the parent directory
+CA_FNAME (//)
+Name of the selected file
+CA_CNAME (//)
+Class of the selected file
+CA_ALIST (//)
+List of available actions\nfor the selected file
+CA_PREFS (//)
+Prefs
+CA_PREFSH (//)
+Launches ClassActionPrefs\n\nIf this not work check the value\nof the tooltype CAPREFS
+CA_ABOUTH (//)
+Display Information and version of ClassAction
+CA_QUITH (//)
+Quit ClassAction
+CA_DEST (//)
+Destination
+CA_COPY (//)
+Copy
+CA_RENAME (//)
+Rename
+CA_MKDIR (//)
+MakeDir
+CA_CLONE (//)
+Copy As
+CA_MOVE (//)
+Move
+CA_DELETE (//)
+Delete
+CA_OPTIONS (//)
+Options
+CA_DEL_OK (//)
+Ok to delete selected entries ?
+CA_ACTIONS (//)
+Actions
+CA_MANAGE (//)
+Managing
