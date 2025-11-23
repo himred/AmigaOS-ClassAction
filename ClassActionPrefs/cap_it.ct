@@ -1,0 +1,248 @@
+## version $VER: ClassActionPrefs.catalog 2.8 (05.10.95)
+## codeset 0
+## language italiano
+;
+CAP_CONFIG_CORRUPT
+Il tuo File di\n\n Configurazione\n\n è Corrotto !
+; Your Config File\n\nIs Corrupted
+;
+CAP_CONFIG_NOT_VALID
+Il tuo File di\n\n Configurazione non è\n\nFile di Config valido\n\n per ClassAction
+; Your Config File\n\nis not a valid\n\nClassAction Config File
+;
+CAP_GENERIC
+Azioni Generiche
+; Generic Actions
+;
+CAP_GENERIC_NOT_VALID
+Il File Generico non è valido.
+; The Generic File is not valid.
+;
+CAP_ADD
+Agg.
+; Add
+;
+CAP_DEL
+Canc.
+; Del
+;
+CAP_SAVE
+Salva
+; Save
+;
+CAP_USE
+Usa
+; Use
+;
+CAP_CLASSES
+Classi
+; Classes
+;
+CAP_ACTIONS
+Azioni
+; Actions
+;
+CAP_CLASSNAME
+NomeClasse
+; ClassName
+;
+CAP_MATCH_NAME
+MatchNome
+; MatchName
+;
+CAP_NAME
+Nome
+; Name
+;
+CAP_EXEC
+Esegui
+; Exec
+;
+CAP_LOAD
+Apri
+; Load
+;
+CAP_STACK
+Stack
+; Stack
+;
+CAP_COMM
+Cmds
+; Comm
+;
+CAP_COPY
+Copia
+; Copy
+;
+CAP_UP
+S
+; U
+;
+CAP_DOWN
+G
+; D
+;
+CAP_CANCEL
+Annulla
+; Cancel
+;
+CAP_DELAY
+Ritardo
+; Delay
+;
+CAP_SELECT
+Sleziona la Classe sorgente
+; Select the source Class
+;
+CAP_NEW_CLASS
+<Nuova Classe #%d>
+; <New Class #%d>
+;
+CAP_NEW_ACTION
+<Nuova Azione #%d>
+; <New Action #%d>
+;
+CAP_CANT_DELETE
+Non puoi Cancellare questa Classe
+; You Can't Delete this Class
+;
+CAP_DEL_CLASS
+Cancello questa Classe ?
+; Delete this Class ?
+;
+CAP_DEL_ACTION
+Cancello questa azione ?
+; Delete this action ?
+;
+CAP_COPYRIGHT
+%s \n\n(c) 1994-1995 di Salim Gasmi\n\nTu puoi contattarmi presso :\n\nGasmi Salim\n6,rue des hirondelles\nF-67380 Lingolsheim\nFrance\n\nEmail : salim@panoramix.sdv.fr\n        salim@zeus.pandemonium.fr
+; %s \n\n(c) 1994-1995 by Salim Gasmi\n\nYou can contact me at :\n\nGasmi Salim\n6,rue des hirondelles\nF-67380 Lingolsheim\nFrance\n\nEmail : salim@panoramix.sdv.fr\n        salim@zeus.pandemonium.fr
+;
+CAP_UNABLE
+Non posso Procedere !\n Classe Sorgente e Destinazione\n sono uguali
+; Unable to Proceed !\nSource and Destination\nClasses are equal
+;
+CAP_F_COMM
+[f]    ''Path+Nome File''
+; [f]    ''Path+File Name''
+;
+CAP_S_COMM
+[s]    ''Path+Nome File senza suffisso''
+; [s]    ''Path+File Name without suffix''
+;
+CAP_B_COMM
+[b]     ''Nome File''
+; [b]    ''File Name''
+;
+CAP_X_COMM
+[x]     ''Nome File senza suffisso''
+; [x]    ''File Name without suffix''
+;
+CAP_BF_COMM
+[F]     Path+Nome File
+; [F]    Path+File Name
+;
+CAP_BS_COMM
+[S]     Path+Nome File senza suffisso
+; [S]    Path+File Name without suffix
+;
+CAP_BB_COMM
+[B]     Nome File
+; [B]    File Name
+;
+CAP_BX_COMM
+[X]     Nome File senza suffisso
+; [X]    File Name without suffix
+;
+CAP_REQF_COMM
+REQF     Richiede un file
+; REQF   Request a file
+;
+CAP_REQD_COMM
+REQD     Richiede una directory
+; REQD   Request a directory
+;
+CAP_REQV_COMM
+REQV     Richiede un volume
+; REQV   Request a volume
+;
+CAP_REQT_COMM
+REQT     Richiede un testo
+; REQT   Request a text
+;
+CAP_SURE_COMM
+SURE     Conferma un comando
+; SURE   Confirm a command
+;
+CAP_COMMANDS
+Comandi
+; Commands
+;
+CAP_ARE_U_SURE
+Sei sicuro ?
+; Are you sure ?
+;
+CAP_YES_NO
+Si|No
+; Yes|No
+;
+CAP_INFO
+Informazioni
+; Information
+;
+CAP_OK
+OK
+; Okay
+;
+CAP_UNKNOWN
+Classe sconosciuta
+; Unknown Class
+;
+CAP_NOACT
+Nessuna Azione
+; No Action
+;
+CAP_L_NEED
+Ho bisogno almeno di 2 file per imparare.
+; I need at least 2 files for learning.
+;
+CAP_L_CHOOSE
+Scegli file per imparare classe.
+; Choose files to learn.
+;
+CAP_L_MEMORY
+Non c'è abbastanza memoria per imparare.
+; Not Enough Memory for learning.
+;
+CAP_L_NOTHING
+Niente di trovato.
+; Nothing found.
+;
+CAP_L_PROG
+Analisi in corso ...
+; Analysis in progress ...
+;
+CAP_L_PREP
+Pre-elaborazione... per favore, attendere
+; Preprocessing... please wait
+;
+CAP_L_LEARN
+Apprendo
+; Learn
+;
+CAP_L_STATUS
+Stato
+; Status
+;
+CAP_L_ACCEPT
+Accetta
+; Accept
+;
+CAP_L_DO_U
+Accetto questa analisi ?
+; Accept this analysis ?
+;
+CAP_L_COMP
+Analisi completata.
+; Analysis complete.
+;
